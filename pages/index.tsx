@@ -12,7 +12,10 @@ const Home: NextPage = () => (
 
     <main className="min-h-screen py-16 flex-1 flex flex-col justify-center items-center">
       <h1 className={styles.title}>
-        Welcome to <strong className="text-blue-500">Crypto punt.</strong>
+        Welcome to{" "}
+        <strong className="text-blue-500">
+          NextJS template <small>[#PawaOx4th]</small>
+        </strong>
       </h1>
     </main>
   </div>
