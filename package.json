@@ -16,7 +16,7 @@
     "test-all": "yarn check-format && yarn check-lint && yarn check-types && yarn build"
   },
   "dependencies": {
-    "next": "12.1.5",
+    "next": "12.1.6",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
@@ -40,7 +40,7 @@
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "eslint-plugin-testing-library": "5.3.1",
+    "eslint-plugin-testing-library": "5.5.1",
     "husky": "^7.0.0",
     "jest": "27.5.1",
     "postcss": "8.4.12",
